@@ -12,7 +12,9 @@ YARA를 도입하려는 경우, 쉽고 빠르게 Threading을 통해 "비동기"
 # 설명
 ![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image1.png)
 ![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image2.png)
+
+
+## [Running메서드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/ec209cbda567f62b53f4e97e977e6f9afbe033fb/codes/Intelligence_Analyzer.py#L30)
 ![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image3.png)
 ![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image4.png)
-![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image5.png)
 
