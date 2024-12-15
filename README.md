@@ -7,9 +7,11 @@ YARA를 도입하려는 경우, 쉽고 빠르게 Threading을 통해 "비동기"
 # 구성
 1. [대표 python코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Intelligence_Analyzer.py)
 2. [rules(from the github)](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Yara_rules.zip)
+3. [.yar 경로를 Root에서부터 쭉 하위까지 스캔하는 코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/File_Manager.py)
 
 # 사용 방법
 [Intelligence_Analyzer.py](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Intelligence_Analyzer.py)를 실행하기전에, [zip파일](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Yara_rules.zip)을 해제하고, Python코드에서 적절히 코드를 환경에 맞게 수정하여 사용합니다.
+또한 [.yar 경로를 Root에서부터 쭉 하위까지 스캔하는 코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/File_Manager.py)를 다운하여, 적절히 import를 하는 것 잊지 마시구요!
 
 # 설명
 ![initial](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/images/image1.png)
