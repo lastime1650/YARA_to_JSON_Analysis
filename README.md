@@ -5,7 +5,7 @@ YARA는 rule 기반으로 binary 정보를 탐색하여 정해진 규칙에 따�
 YARA를 도입하려는 경우, 쉽고 빠르게 Threading을 통해 "비동기"적으로 분석을 수행하고, JSON으로 결과를 queue에 반환하는 작업을 합니다.  
 
 # 구성
-1. [대표 python코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Intelligence_Analyzer.py)
+1. [대표 yara모듈기반 분석 python 코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Intelligence_Analyzer.py)
 2. [rules(from the github)](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/Yara_rules.zip)
 3. [.yar 경로를 Root에서부터 쭉 하위까지 스캔하는 코드](https://github.com/lastime1650/YARA_to_JSON_Analysis/blob/main/codes/File_Manager.py)
 
